@@ -1,0 +1,9 @@
+#name, main, version and api are required
+name: underwaterLiver
+main: underwaterLiver\MainClass
+version: 1.0.0
+api: 3.0.0
+
+author: Benda95280
+description: You can live underwater
+website: none
